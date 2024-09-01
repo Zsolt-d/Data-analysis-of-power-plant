@@ -7,6 +7,7 @@ The goal of this project is to predict the electrical power output of a power pl
 2. Atmospheric Pressure (AP)
 3. Relative Humidity (RH)
 4. Exhaust Steam Pressure (EP)
+
 These variables have a direct impact on the performance of the power plant. Accurate predictions of electrical power output can help in optimizing the plant's operations and improving efficiency.
 
 ## Dataset
