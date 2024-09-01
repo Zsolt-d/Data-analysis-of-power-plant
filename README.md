@@ -27,18 +27,28 @@ EDA helps in understanding the data, identifying trends, and preparing the data 
 ## Prediction models
 ### Regression models
 Regression techniques are applied using the scikit-learn and statsmodels libraries. Various regression models are implemented to predict the power output, including:
+
 __-Linear Regression__
+
 __-Polynomial Regression__
+
 __-Ridge Regression__
+
 __-Lasso Regression__
+
 __-kNN regression__
+
 Model performance is evaluated using metrics such as Mean Squared Error (MSE) and R-squared (R²).
 
 ### Neural network model
 A neural network model is implemented using the TensorFlow library. The neural network is designed with:
+
     -Input layer corresponding to the four input parameters.
+    
     -Hidden layers with varying number of neurons and activation functions.
+    
     -Output layer predicting the electrical power output.
+    
 The model is trained using backpropagation and optimized using an appropriate optimizer. The model's performance is evaluated on a test set using metrics like MSE and R².
 
 ## Conclusion
