@@ -17,7 +17,9 @@ The dataset used in this project contains records of the above-mentioned paramet
 Exploratory Data Analysis (EDA)
 The EDA is performed using Python libraries like pandas, seaborn, and matplotlib. The key steps in the EDA include:
 __Data Cleaning:__ Checking for missing values, handling outliers, and data type conversions.
+
 __Descriptive Statistics:__ Summary statistics to understand the distribution of each variable.
+
 __Visualization:__ Plotting relationships between the input parameters and the target variable using scatter plots, histograms, and heatmaps.
 EDA helps in understanding the data, identifying trends, and preparing the data for modeling.
 
